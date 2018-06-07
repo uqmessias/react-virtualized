@@ -1,9 +1,9 @@
 {
-  "name": "react-virtualized",
+  "name": "uqmessias-npm-react-virtualized",
   "description": "React components for efficiently rendering large, scrollable lists and tabular data",
   "author": "Brian Vaughn <brian.david.vaughn@gmail.com>",
   "user": "bvaughn",
-  "version": "9.19.1",
+  "version": "9.19.2-beta-1",
   "homepage": "https://github.com/bvaughn/react-virtualized",
   "main": "dist/commonjs/index.js",
   "module": "dist/es/index.js",
